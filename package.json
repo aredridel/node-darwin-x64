@@ -1,0 +1,11 @@
+{
+  "name": "node-darwin-x64",
+  "description": "node",
+  "version": "0.10.33",
+  "scripts": {
+      "preinstall": "tar xzf node-v0.10.33-darwin-x64.tar.gz"
+  },
+  "bin": {
+      "node": "node-v0.10.33-darwin-x64/bin/node"
+  }
+}
