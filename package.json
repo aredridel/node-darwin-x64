@@ -5,6 +5,10 @@
   "scripts": {
       "preinstall": "tar xzf node-v0.10.33-darwin-x64.tar.gz"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aredridel/node-darwin-x64.git"
+  },
   "bin": {
       "node": "node-v0.10.33-darwin-x64/bin/node"
   }
